@@ -1,0 +1,19 @@
+{
+  "name": "victory-tooltip",
+  "version": "0.0.1",
+  "description": "tooltip component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-tooltip.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-tooltip/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-tooltip",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
